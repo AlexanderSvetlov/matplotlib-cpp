@@ -122,6 +122,7 @@ int main()
     plt::show();                                  // отображение графика
 }
 ```
+![3D plot example](./MyLib/plot3D.png)
 ---
 
 ### Подграфики с использованием plot2D и scatter2D
@@ -168,6 +169,7 @@ int main()
     plt::show();
 }
 ```
+![subplots example](./MyLib/subplot.png)
 ---
 
 # Original Library
