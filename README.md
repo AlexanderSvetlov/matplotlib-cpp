@@ -19,8 +19,7 @@
 2) Выберите конфигурацию сборки Release для вашего проекта.
 3) Откройте свойства проекта, затем: "Свойства конфигурации -> Каталоги VC++ -> Общие -> Включаемые каталоги". необходимо выбрать два пути к каталогам Python 3.9 на вашем компьюьтере. Наши пути выглядят так:
 - "C:\Users\user\AppData\Local\Programs\Python\Python39\Lib\site-packages\numpy\_core\include" (подключает numpy);
-- "C:\Users\user\AppData\Local\Programs\Python\Python39\include" (остальные подключения).
-
+- "C:\Users\user\AppData\Local\Programs\Python\Python39\include" (остальные подключения). //
 Вид этих путей зависит от папки, куда был установлен Python 3.9.
 4) Затем в тех же настройках выберите "Каталоги библиотек" и выберете путь к оставшимся используемым библиотекам Python. Наш путь выглядит так:
 - "C:\Users\user\AppData\Local\Programs\Python\Python39\libs".
